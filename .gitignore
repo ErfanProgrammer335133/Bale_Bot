@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Build results
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.userosscache
+*.sln.docstates

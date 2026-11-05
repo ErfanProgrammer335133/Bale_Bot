@@ -1,0 +1,6 @@
+@BaleBotManager_HostAddress = http://localhost:5182
+
+GET {{BaleBotManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
